@@ -46,9 +46,12 @@ To use this application locally:
    ```bash
    git clone <repository-url>
 2.Navigate to the project folder:
-
-cd temperature-converter
+ ```bash
+   cd temperature-converter
+```
 - Open the index.html file in any modern web browser (e.g., Chrome, Firefox, Edge).
+
+---
 
 ## Usage
 - Open the index.html file in your web browser.
@@ -56,19 +59,27 @@ cd temperature-converter
 - The other fields will automatically update with the converted temperature values.
 - Enjoy quick and seamless temperature conversions.
 
+---
+
 ## Screenshots
 - Homepage
 - Conversion Example
+
+---
 
 ## Code and Resources Used
 - HTML/CSS/JavaScript for the core functionality and UI.
 - Linear gradient backgrounds for modern styling.
 - Favicon Generator to create the temperature icon.
 
+---
+
 ## Requirements
 
 - No external dependencies are required. However, for best results:
 - Use any modern browser that supports HTML5, CSS3, and ES6 JavaScript.
+
+---
 
 ## Directory Structure
 
@@ -78,11 +89,14 @@ temperature-converter/
 ├── temp.js          # JavaScript logic file
 ├── temperature.ico  # Favicon file
 
+---
+
 ## Author
 
 Harsha Vinjamuri ❤️
 - Temperature Conversion Application developed with love.
 
+---
 
 ### Changes Made:
 - Indented the "Navigate to the project folder" and "Clone the repository" commands into proper code blocks with ` ```bash ` for better readability.
