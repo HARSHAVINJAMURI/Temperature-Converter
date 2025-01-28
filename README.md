@@ -47,7 +47,7 @@ To use this application locally:
    git clone <repository-url>
 2.Navigate to the project folder:
    ```bash
-   cd temperature-converter
+      cd temperature-converter
    ```
 - Open the index.html file in any modern web browser (e.g., Chrome, Firefox, Edge).
 
