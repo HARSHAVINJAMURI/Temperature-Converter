@@ -46,9 +46,9 @@ To use this application locally:
    ```bash
    git clone <repository-url>
 2.Navigate to the project folder:
- ```bash
+   ```bash
    cd temperature-converter
-```
+   ```
 - Open the index.html file in any modern web browser (e.g., Chrome, Firefox, Edge).
 
 ---
@@ -84,10 +84,10 @@ To use this application locally:
 ## Directory Structure
 
 temperature-converter/
-├── index.html       # Main HTML file
-├── temp.css         # CSS styling file
-├── temp.js          # JavaScript logic file
-├── temperature.ico  # Favicon file
+- ├── index.html       # Main HTML file
+- ├── temp.css         # CSS styling file
+- ├── temp.js          # JavaScript logic file
+- ├── temperature.ico  # Favicon file
 
 ---
 
